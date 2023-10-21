@@ -26,4 +26,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:<br>
 
 <h2>👨‍🏫 Créditos</h2>
 <p>Este projeto foi realizado nas aulas do Curso de Profissão: FullStack Java, da <a href="https://ebaconline.com.br/cursos">Ebac</a>.</p>
+Esse projeto foi feito com orientação para fixação do conteúdo pelo Dev <a href="https://www.youtube.com/watch?v=NsNSu1H2vyg&t=0s">Uanela Como</a> com algumas modificações para ser adaptado ao exercício proposto.
 Aluna -  Viviane Silva - 2023
